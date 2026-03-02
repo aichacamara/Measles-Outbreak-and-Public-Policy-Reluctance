@@ -1,0 +1,617 @@
+PHR,group,level,n,answer,pct,low,high
+10,Total,Total,400,YES,41.1,35.2,47.2
+10,Sex,Male,211,YES,40.3,32.9,48.1
+10,Sex,Female,189,YES,42.0,32.6,52.0
+10,Race/Ethnicity,"White, Non-Hispanic",82,YES,44.2,29.4,60.2
+10,Race/Ethnicity,"Black, Non-Hispanic",N,YES,,,
+10,Race/Ethnicity,Hispanic,275,YES,39.9,33.2,47.0
+10,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+10,Age,18 to 29,73,YES,25.4,15.5,38.7
+10,Age,30 to 44,77,YES,23.3,14.6,35.1
+10,Age,45 to 64,120,YES,46.0,36.1,56.2
+10,Age,65+,127,YES,66.1,53.0,77.2
+10,Education,Less than high school,50,YES,53.0,32.9,72.2
+10,Education,High school graduate,96,YES,35.9,25.9,47.3
+10,Education,Some college,104,YES,32.4,22.8,43.8
+10,Education,College graduate,150,YES,49.5,40.5,58.6
+10,Income,"<$25,000",87,YES,48.5,36.7,60.5
+10,Income,"$25,000 to <$50,000",102,YES,32.8,23.4,43.8
+10,Income,"$50,000+",163,YES,43.6,34.8,52.8
+10,Marital Status,Married,200,YES,47.8,39.6,56.2
+10,Marital Status,Not married,198,YES,33.2,24.9,42.7
+10,Employment Status,Employed,209,YES,32.1,25.4,39.7
+10,Employment Status,Not employed,181,YES,51.6,40.9,62.1
+10,Health Insurance,Health insurance,328,YES,44.3,37.4,51.3
+10,Health Insurance,No health insurance,54,YES,25.5,14.1,41.6
+10,Disability Status,Has disability,157,YES,47.5,36.9,58.4
+10,Disability Status,No disability,239,YES,35.6,28.9,42.9
+10,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+10,Sexual Orientation,Straight,314,YES,40.4,34.2,47.1
+10,Total,Total,400,NO,58.9,52.8,64.8
+10,Sex,Male,211,NO,59.7,51.9,67.1
+10,Sex,Female,189,NO,58.0,48.0,67.4
+10,Race/Ethnicity,"White, Non-Hispanic",82,NO,55.8,39.8,70.6
+10,Race/Ethnicity,"Black, Non-Hispanic",N,NO,,,
+10,Race/Ethnicity,Hispanic,275,NO,60.1,53.0,66.8
+10,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+10,Age,18 to 29,73,NO,74.6,61.3,84.5
+10,Age,30 to 44,77,NO,76.7,64.9,85.4
+10,Age,45 to 64,120,NO,54.0,43.8,63.9
+10,Age,65+,127,NO,33.9,22.8,47.0
+10,Education,Less than high school,50,NO,47.0,27.8,67.1
+10,Education,High school graduate,96,NO,64.1,52.7,74.1
+10,Education,Some college,104,NO,67.6,56.2,77.2
+10,Education,College graduate,150,NO,50.5,41.4,59.5
+10,Income,"<$25,000",87,NO,51.5,39.5,63.3
+10,Income,"$25,000 to <$50,000",102,NO,67.2,56.2,76.6
+10,Income,"$50,000+",163,NO,56.4,47.2,65.2
+10,Marital Status,Married,200,NO,52.2,43.8,60.4
+10,Marital Status,Not married,198,NO,66.8,57.3,75.1
+10,Employment Status,Employed,209,NO,67.9,60.3,74.6
+10,Employment Status,Not employed,181,NO,48.4,37.9,59.1
+10,Health Insurance,Health insurance,328,NO,55.7,48.7,62.6
+10,Health Insurance,No health insurance,54,NO,74.5,58.4,85.9
+10,Disability Status,Has disability,157,NO,52.5,41.6,63.1
+10,Disability Status,No disability,239,NO,64.4,57.1,71.1
+10,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+10,Sexual Orientation,Straight,314,NO,59.6,52.9,65.8
+11,Total,Total,570,YES,32.0,26.3,38.2
+11,Sex,Male,280,YES,30.4,22.5,39.8
+11,Sex,Female,290,YES,33.4,25.8,42.0
+11,Race/Ethnicity,"White, Non-Hispanic",123,YES,29.3,19.2,41.9
+11,Race/Ethnicity,"Black, Non-Hispanic",N,YES,,,
+11,Race/Ethnicity,Hispanic,403,YES,33.8,27.2,41.2
+11,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+11,Age,18 to 29,89,YES,22.9,14.2,34.8
+11,Age,30 to 44,138,YES,26.1,15.5,40.3
+11,Age,45 to 64,170,YES,31.3,21.4,43.2
+11,Age,65+,171,YES,56.0,43.4,67.9
+11,Education,Less than high school,106,YES,33.5,21.2,48.5
+11,Education,High school graduate,165,YES,28.7,19.2,40.4
+11,Education,Some college,137,YES,27.4,17.7,39.8
+11,Education,College graduate,155,YES,39.8,29.6,51.0
+11,Income,"<$25,000",148,YES,30.7,21.0,42.6
+11,Income,"$25,000 to <$50,000",144,YES,37.0,24.7,51.3
+11,Income,"$50,000+",193,YES,24.9,17.5,34.2
+11,Marital Status,Married,252,YES,32.0,24.0,41.2
+11,Marital Status,Not married,314,YES,32.0,24.4,40.8
+11,Employment Status,Employed,273,YES,26.7,19.6,35.2
+11,Employment Status,Not employed,288,YES,37.9,29.1,47.5
+11,Health Insurance,Health insurance,437,YES,38.1,31.3,45.5
+11,Health Insurance,No health insurance,84,YES,,,
+11,Disability Status,Has disability,218,YES,41.4,31.0,52.5
+11,Disability Status,No disability,347,YES,27.5,21.1,35.0
+11,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+11,Sexual Orientation,Straight,436,YES,32.3,25.7,39.7
+11,Total,Total,570,NO,68.0,61.8,73.7
+11,Sex,Male,280,NO,69.6,60.2,77.5
+11,Sex,Female,290,NO,66.6,58.0,74.2
+11,Race/Ethnicity,"White, Non-Hispanic",123,NO,70.7,58.1,80.8
+11,Race/Ethnicity,"Black, Non-Hispanic",N,NO,,,
+11,Race/Ethnicity,Hispanic,403,NO,66.2,58.8,72.8
+11,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+11,Age,18 to 29,89,NO,77.1,65.2,85.8
+11,Age,30 to 44,138,NO,73.9,59.7,84.5
+11,Age,45 to 64,170,NO,68.7,56.8,78.6
+11,Age,65+,171,NO,44.0,32.1,56.6
+11,Education,Less than high school,106,NO,66.5,51.5,78.8
+11,Education,High school graduate,165,NO,71.3,59.6,80.8
+11,Education,Some college,137,NO,72.6,60.2,82.3
+11,Education,College graduate,155,NO,60.2,49.0,70.4
+11,Income,"<$25,000",148,NO,69.3,57.4,79.0
+11,Income,"$25,000 to <$50,000",144,NO,63.0,48.7,75.3
+11,Income,"$50,000+",193,NO,75.1,65.8,82.5
+11,Marital Status,Married,252,NO,68.0,58.8,76.0
+11,Marital Status,Not married,314,NO,68.0,59.2,75.6
+11,Employment Status,Employed,273,NO,73.3,64.8,80.4
+11,Employment Status,Not employed,288,NO,62.1,52.5,70.9
+11,Health Insurance,Health insurance,437,NO,61.9,54.5,68.7
+11,Health Insurance,No health insurance,84,NO,85.0,68.8,93.5
+11,Disability Status,Has disability,218,NO,58.6,47.5,69.0
+11,Disability Status,No disability,347,NO,72.5,65.0,78.9
+11,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+11,Sexual Orientation,Straight,436,NO,67.7,60.3,74.3
+1,Total,Total,860,YES,33.6,26.6,41.5
+1,Sex,Male,419,YES,29.8,21.7,39.3
+1,Sex,Female,441,YES,36.9,26.2,49.2
+1,Race/Ethnicity,"White, Non-Hispanic",574,YES,40.3,31.4,50.0
+1,Race/Ethnicity,"Black, Non-Hispanic",N,YES,,,
+1,Race/Ethnicity,Hispanic,181,YES,26.2,15.5,40.8
+1,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+1,Age,18 to 29,117,YES,,,
+1,Age,30 to 44,188,YES,,,
+1,Age,45 to 64,247,YES,36.8,24.5,51.1
+1,Age,65+,303,YES,53.1,40.8,65.0
+1,Education,Less than high school,70,YES,,,
+1,Education,High school graduate,210,YES,20.0,11.9,31.6
+1,Education,Some college,246,YES,36.6,25.7,49.1
+1,Education,College graduate,331,YES,49.1,35.3,63.0
+1,Income,"<$25,000",118,YES,41.5,23.2,62.6
+1,Income,"$25,000 to <$50,000",197,YES,24.2,13.9,38.6
+1,Income,"$50,000+",421,YES,37.4,27.2,48.8
+1,Marital Status,Married,443,YES,37.7,27.8,48.8
+1,Marital Status,Not married,415,YES,28.8,20.0,39.5
+1,Employment Status,Employed,452,YES,28.8,20.1,39.3
+1,Employment Status,Not employed,398,YES,41.2,30.0,53.4
+1,Health Insurance,Health insurance,741,YES,39.3,31.2,47.9
+1,Health Insurance,No health insurance,79,YES,,,
+1,Disability Status,Has disability,280,YES,44.2,30.8,58.5
+1,Disability Status,No disability,575,YES,27.9,20.3,36.9
+1,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+1,Sexual Orientation,Straight,747,YES,31.6,24.4,39.7
+1,Total,Total,860,NO,66.4,58.5,73.4
+1,Sex,Male,419,NO,70.2,60.7,78.3
+1,Sex,Female,441,NO,63.1,50.8,73.8
+1,Race/Ethnicity,"White, Non-Hispanic",574,NO,59.7,50.0,68.6
+1,Race/Ethnicity,"Black, Non-Hispanic",N,NO,,,
+1,Race/Ethnicity,Hispanic,181,NO,73.8,59.2,84.5
+1,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+1,Age,18 to 29,117,NO,76.7,58.6,88.4
+1,Age,30 to 44,188,NO,74.6,56.7,86.8
+1,Age,45 to 64,247,NO,63.2,48.9,75.5
+1,Age,65+,303,NO,46.9,35.0,59.2
+1,Education,Less than high school,70,NO,65.9,38.7,85.5
+1,Education,High school graduate,210,NO,80.0,68.4,88.1
+1,Education,Some college,246,NO,63.4,50.9,74.3
+1,Education,College graduate,331,NO,50.9,37.0,64.7
+1,Income,"<$25,000",118,NO,58.5,37.4,76.8
+1,Income,"$25,000 to <$50,000",197,NO,75.8,61.4,86.1
+1,Income,"$50,000+",421,NO,62.6,51.2,72.8
+1,Marital Status,Married,443,NO,62.3,51.2,72.2
+1,Marital Status,Not married,415,NO,71.2,60.5,80.0
+1,Employment Status,Employed,452,NO,71.2,60.7,79.9
+1,Employment Status,Not employed,398,NO,58.8,46.6,70.0
+1,Health Insurance,Health insurance,741,NO,60.7,52.1,68.8
+1,Health Insurance,No health insurance,79,NO,94.3,87.9,97.4
+1,Disability Status,Has disability,280,NO,55.8,41.5,69.2
+1,Disability Status,No disability,575,NO,72.1,63.1,79.7
+1,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+1,Sexual Orientation,Straight,747,NO,68.4,60.3,75.6
+2,Total,Total,831,YES,37.4,29.3,46.2
+2,Sex,Male,401,YES,38.2,26.2,51.9
+2,Sex,Female,430,YES,36.6,26.5,48.0
+2,Race/Ethnicity,"White, Non-Hispanic",629,YES,38.7,29.8,48.4
+2,Race/Ethnicity,"Black, Non-Hispanic",N,YES,,,
+2,Race/Ethnicity,Hispanic,95,YES,,,
+2,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+2,Age,18 to 29,99,YES,,,
+2,Age,30 to 44,158,YES,25.3,14.2,40.9
+2,Age,45 to 64,250,YES,46.1,30.9,62.2
+2,Age,65+,316,YES,49.1,34.8,63.5
+2,Education,Less than high school,55,YES,,,
+2,Education,High school graduate,212,YES,37.0,22.1,54.9
+2,Education,Some college,263,YES,35.2,24.3,47.9
+2,Education,College graduate,299,YES,42.4,29.0,56.9
+2,Income,"<$25,000",128,YES,,,
+2,Income,"$25,000 to <$50,000",181,YES,41.5,25.0,60.0
+2,Income,"$50,000+",416,YES,34.7,26.1,44.4
+2,Marital Status,Married,446,YES,42.8,31.2,55.2
+2,Marital Status,Not married,383,YES,29.8,20.7,40.8
+2,Employment Status,Employed,393,YES,26.4,19.3,35.0
+2,Employment Status,Not employed,433,YES,47.4,34.7,60.4
+2,Health Insurance,Health insurance,733,YES,40.3,31.3,50.0
+2,Health Insurance,No health insurance,60,YES,,,
+2,Disability Status,Has disability,306,YES,45.8,31.1,61.3
+2,Disability Status,No disability,518,YES,31.6,23.9,40.4
+2,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+2,Sexual Orientation,Straight,728,YES,38.2,29.4,48.0
+2,Total,Total,831,NO,62.6,53.8,70.7
+2,Sex,Male,401,NO,61.8,48.1,73.8
+2,Sex,Female,430,NO,63.4,52.0,73.5
+2,Race/Ethnicity,"White, Non-Hispanic",629,NO,61.3,51.6,70.2
+2,Race/Ethnicity,"Black, Non-Hispanic",N,NO,,,
+2,Race/Ethnicity,Hispanic,95,NO,62.0,35.3,83.0
+2,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+2,Age,18 to 29,99,NO,79.0,52.6,92.7
+2,Age,30 to 44,158,NO,74.7,59.1,85.8
+2,Age,45 to 64,250,NO,53.9,37.8,69.1
+2,Age,65+,316,NO,50.9,36.5,65.2
+2,Education,Less than high school,55,NO,64.0,33.1,86.5
+2,Education,High school graduate,212,NO,63.0,45.1,77.9
+2,Education,Some college,263,NO,64.8,52.1,75.7
+2,Education,College graduate,299,NO,57.6,43.1,71.0
+2,Income,"<$25,000",128,NO,62.7,37.8,82.3
+2,Income,"$25,000 to <$50,000",181,NO,58.5,40.0,75.0
+2,Income,"$50,000+",416,NO,65.3,55.6,73.9
+2,Marital Status,Married,446,NO,57.2,44.8,68.8
+2,Marital Status,Not married,383,NO,70.2,59.2,79.3
+2,Employment Status,Employed,393,NO,73.6,65.0,80.7
+2,Employment Status,Not employed,433,NO,52.6,39.6,65.3
+2,Health Insurance,Health insurance,733,NO,59.7,50.0,68.7
+2,Health Insurance,No health insurance,60,NO,87.6,71.8,95.2
+2,Disability Status,Has disability,306,NO,54.2,38.7,68.9
+2,Disability Status,No disability,518,NO,68.4,59.6,76.1
+2,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+2,Sexual Orientation,Straight,728,NO,61.8,52.0,70.6
+3,Total,Total,"2,354",YES,38.5,35.8,41.3
+3,Sex,Male,"1,202",YES,36.0,32.2,39.9
+3,Sex,Female,"1,152",YES,41.1,37.2,45.0
+3,Race/Ethnicity,"White, Non-Hispanic","1,426",YES,42.4,39.0,45.9
+3,Race/Ethnicity,"Black, Non-Hispanic",246,YES,38.4,31.1,46.2
+3,Race/Ethnicity,Hispanic,383,YES,30.7,25.0,37.2
+3,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",247,YES,43.1,35.7,50.9
+3,Age,18 to 29,423,YES,20.4,15.9,25.8
+3,Age,30 to 44,592,YES,33.9,29.1,39.1
+3,Age,45 to 64,683,YES,41.0,36.0,46.2
+3,Age,65+,623,YES,63.5,57.5,69.1
+3,Education,Less than high school,116,YES,33.4,23.2,45.5
+3,Education,High school graduate,510,YES,29.0,23.9,34.7
+3,Education,Some college,633,YES,38.1,33.1,43.2
+3,Education,College graduate,"1,083",YES,47.4,43.6,51.3
+3,Income,"<$25,000",227,YES,39.0,29.8,49.1
+3,Income,"$25,000 to <$50,000",428,YES,37.2,30.9,43.9
+3,Income,"$50,000+","1,304",YES,39.3,35.8,43.0
+3,Marital Status,Married,"1,199",YES,43.7,39.9,47.7
+3,Marital Status,Not married,"1,133",YES,32.9,29.2,36.8
+3,Employment Status,Employed,"1,342",YES,34.4,31.1,37.8
+3,Employment Status,Not employed,984,YES,46.0,41.5,50.7
+3,Health Insurance,Health insurance,"2,007",YES,42.4,39.4,45.4
+3,Health Insurance,No health insurance,245,YES,16.9,10.4,26.3
+3,Disability Status,Has disability,685,YES,41.4,36.0,47.0
+3,Disability Status,No disability,"1,647",YES,37.4,34.3,40.6
+3,Sexual Orientation,"Gay, Lesbian, or Bisexual",145,YES,40.1,30.0,51.1
+3,Sexual Orientation,Straight,"1,808",YES,40.2,37.1,43.3
+3,Total,Total,"2,354",NO,61.5,58.7,64.2
+3,Sex,Male,"1,202",NO,64.0,60.1,67.8
+3,Sex,Female,"1,152",NO,58.9,55.0,62.8
+3,Race/Ethnicity,"White, Non-Hispanic","1,426",NO,57.6,54.1,61.0
+3,Race/Ethnicity,"Black, Non-Hispanic",246,NO,61.6,53.8,68.9
+3,Race/Ethnicity,Hispanic,383,NO,69.3,62.8,75.0
+3,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",247,NO,56.9,49.1,64.3
+3,Age,18 to 29,423,NO,79.6,74.2,84.1
+3,Age,30 to 44,592,NO,66.1,60.9,70.9
+3,Age,45 to 64,683,NO,59.0,53.8,64.0
+3,Age,65+,623,NO,36.5,30.9,42.5
+3,Education,Less than high school,116,NO,66.6,54.5,76.8
+3,Education,High school graduate,510,NO,71.0,65.3,76.1
+3,Education,Some college,633,NO,61.9,56.8,66.9
+3,Education,College graduate,"1,083",NO,52.6,48.7,56.4
+3,Income,"<$25,000",227,NO,61.0,50.9,70.2
+3,Income,"$25,000 to <$50,000",428,NO,62.8,56.1,69.1
+3,Income,"$50,000+","1,304",NO,60.7,57.0,64.2
+3,Marital Status,Married,"1,199",NO,56.3,52.3,60.1
+3,Marital Status,Not married,"1,133",NO,67.1,63.2,70.8
+3,Employment Status,Employed,"1,342",NO,65.6,62.2,68.9
+3,Employment Status,Not employed,984,NO,54.0,49.3,58.5
+3,Health Insurance,Health insurance,"2,007",NO,57.6,54.6,60.6
+3,Health Insurance,No health insurance,245,NO,83.1,73.7,89.6
+3,Disability Status,Has disability,685,NO,58.6,53.0,64.0
+3,Disability Status,No disability,"1,647",NO,62.6,59.4,65.7
+3,Sexual Orientation,"Gay, Lesbian, or Bisexual",145,NO,59.9,48.9,70.0
+3,Sexual Orientation,Straight,"1,808",NO,59.8,56.7,62.9
+4,Total,Total,220,YES,25.4,18.8,33.2
+4,Sex,Male,107,YES,25.1,15.9,37.3
+4,Sex,Female,113,YES,25.6,17.1,36.3
+4,Race/Ethnicity,"White, Non-Hispanic",160,YES,24.3,17.7,32.2
+4,Race/Ethnicity,"Black, Non-Hispanic",N,YES,,,
+4,Race/Ethnicity,Hispanic,N,YES,,,
+4,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+4,Age,18 to 29,N,YES,,,
+4,Age,30 to 44,N,YES,,,
+4,Age,45 to 64,70,YES,31.2,19.2,46.4
+4,Age,65+,88,YES,43.2,30.6,56.8
+4,Education,Less than high school,N,YES,,,
+4,Education,High school graduate,76,YES,20.7,12.1,33.2
+4,Education,Some college,71,YES,20.3,12.1,32.0
+4,Education,College graduate,59,YES,46.6,30.7,63.3
+4,Income,"<$25,000",N,YES,,,
+4,Income,"$25,000 to <$50,000",59,YES,28.5,16.7,44.2
+4,Income,"$50,000+",82,YES,20.7,12.0,33.4
+4,Marital Status,Married,107,YES,32.3,22.3,44.3
+4,Marital Status,Not married,113,YES,17.2,10.9,26.2
+4,Employment Status,Employed,91,YES,19.4,11.2,31.5
+4,Employment Status,Not employed,126,YES,31.9,22.3,43.3
+4,Health Insurance,Health insurance,193,YES,28.3,21.1,36.8
+4,Health Insurance,No health insurance,N,YES,,,
+4,Disability Status,Has disability,78,YES,21.9,13.2,34.1
+4,Disability Status,No disability,141,YES,26.8,18.7,36.8
+4,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+4,Sexual Orientation,Straight,161,YES,28.8,20.8,38.4
+4,Total,Total,220,NO,74.6,66.8,81.2
+4,Sex,Male,107,NO,74.9,62.7,84.1
+4,Sex,Female,113,NO,74.4,63.7,82.9
+4,Race/Ethnicity,"White, Non-Hispanic",160,NO,75.7,67.8,82.3
+4,Race/Ethnicity,"Black, Non-Hispanic",N,NO,,,
+4,Race/Ethnicity,Hispanic,N,NO,,,
+4,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+4,Age,18 to 29,N,NO,,,
+4,Age,30 to 44,N,NO,,,
+4,Age,45 to 64,70,NO,68.8,53.6,80.8
+4,Age,65+,88,NO,56.8,43.2,69.4
+4,Education,Less than high school,N,NO,,,
+4,Education,High school graduate,76,NO,79.3,66.8,87.9
+4,Education,Some college,71,NO,79.7,68.0,87.9
+4,Education,College graduate,59,NO,53.4,36.7,69.3
+4,Income,"<$25,000",N,NO,,,
+4,Income,"$25,000 to <$50,000",59,NO,71.5,55.8,83.3
+4,Income,"$50,000+",82,NO,79.3,66.6,88.0
+4,Marital Status,Married,107,NO,67.7,55.7,77.7
+4,Marital Status,Not married,113,NO,82.8,73.8,89.1
+4,Employment Status,Employed,91,NO,80.6,68.5,88.8
+4,Employment Status,Not employed,126,NO,68.1,56.7,77.7
+4,Health Insurance,Health insurance,193,NO,71.7,63.2,78.9
+4,Health Insurance,No health insurance,N,NO,,,
+4,Disability Status,Has disability,78,NO,78.1,65.9,86.8
+4,Disability Status,No disability,141,NO,73.2,63.2,81.3
+4,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+4,Sexual Orientation,Straight,161,NO,71.2,61.6,79.2
+5,Total,Total,526,YES,25.6,19.6,32.7
+5,Sex,Male,243,YES,20.0,13.3,28.8
+5,Sex,Female,283,YES,31.6,22.2,42.8
+5,Race/Ethnicity,"White, Non-Hispanic",338,YES,29.4,20.8,39.8
+5,Race/Ethnicity,"Black, Non-Hispanic",84,YES,38.3,21.9,57.9
+5,Race/Ethnicity,Hispanic,66,YES,,,
+5,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+5,Age,18 to 29,59,YES,,,
+5,Age,30 to 44,85,YES,,,
+5,Age,45 to 64,160,YES,23.9,14.1,37.6
+5,Age,65+,216,YES,54.2,40.3,67.4
+5,Education,Less than high school,N,YES,,,
+5,Education,High school graduate,166,YES,18.8,11.7,28.9
+5,Education,Some college,166,YES,30.9,19.2,45.7
+5,Education,College graduate,153,YES,33.6,22.7,46.6
+5,Income,"<$25,000",87,YES,,,
+5,Income,"$25,000 to <$50,000",117,YES,22.8,13.2,36.4
+5,Income,"$50,000+",223,YES,25.6,16.0,38.3
+5,Marital Status,Married,242,YES,30.7,21.3,41.9
+5,Marital Status,Not married,282,YES,21.6,14.6,30.8
+5,Employment Status,Employed,223,YES,18.3,11.3,28.2
+5,Employment Status,Not employed,295,YES,33.5,24.0,44.5
+5,Health Insurance,Health insurance,455,YES,28.6,21.8,36.6
+5,Health Insurance,No health insurance,N,YES,,,
+5,Disability Status,Has disability,188,YES,31.3,20.9,43.9
+5,Disability Status,No disability,333,YES,23.5,16.3,32.6
+5,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+5,Sexual Orientation,Straight,447,YES,28.8,21.5,37.5
+5,Total,Total,526,NO,74.4,67.3,80.4
+5,Sex,Male,243,NO,80.0,71.2,86.7
+5,Sex,Female,283,NO,68.4,57.2,77.8
+5,Race/Ethnicity,"White, Non-Hispanic",338,NO,70.6,60.2,79.2
+5,Race/Ethnicity,"Black, Non-Hispanic",84,NO,61.7,42.1,78.1
+5,Race/Ethnicity,Hispanic,66,NO,90.0,81.1,95.0
+5,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+5,Age,18 to 29,59,NO,86.9,71.5,94.6
+5,Age,30 to 44,85,NO,90.0,81.1,95.0
+5,Age,45 to 64,160,NO,76.1,62.4,85.9
+5,Age,65+,216,NO,45.8,32.6,59.7
+5,Education,Less than high school,N,NO,,,
+5,Education,High school graduate,166,NO,81.2,71.1,88.3
+5,Education,Some college,166,NO,69.1,54.3,80.8
+5,Education,College graduate,153,NO,66.4,53.4,77.3
+5,Income,"<$25,000",87,NO,79.0,62.4,89.5
+5,Income,"$25,000 to <$50,000",117,NO,77.2,63.6,86.8
+5,Income,"$50,000+",223,NO,74.4,61.7,84.0
+5,Marital Status,Married,242,NO,69.3,58.1,78.7
+5,Marital Status,Not married,282,NO,78.4,69.2,85.4
+5,Employment Status,Employed,223,NO,81.7,71.8,88.7
+5,Employment Status,Not employed,295,NO,66.5,55.5,76.0
+5,Health Insurance,Health insurance,455,NO,71.4,63.4,78.2
+5,Health Insurance,No health insurance,N,NO,,,
+5,Disability Status,Has disability,188,NO,68.7,56.1,79.1
+5,Disability Status,No disability,333,NO,76.5,67.4,83.7
+5,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+5,Sexual Orientation,Straight,447,NO,71.2,62.5,78.5
+6,Total,Total,"1,482",YES,36.2,31.6,41.0
+6,Sex,Male,792,YES,29.3,24.1,35.2
+6,Sex,Female,690,YES,43.3,36.1,50.7
+6,Race/Ethnicity,"White, Non-Hispanic",817,YES,43.0,36.2,50.0
+6,Race/Ethnicity,"Black, Non-Hispanic",169,YES,34.8,23.4,48.3
+6,Race/Ethnicity,Hispanic,340,YES,29.6,22.7,37.5
+6,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",129,YES,41.6,26.2,58.8
+6,Age,18 to 29,279,YES,27.5,19.2,37.7
+6,Age,30 to 44,348,YES,30.2,22.3,39.6
+6,Age,45 to 64,438,YES,38.0,29.6,47.3
+6,Age,65+,402,YES,52.4,41.4,63.2
+6,Education,Less than high school,104,YES,24.6,13.2,41.2
+6,Education,High school graduate,327,YES,26.7,19.1,36.0
+6,Education,Some college,358,YES,36.8,27.8,46.9
+6,Education,College graduate,683,YES,47.8,40.9,54.8
+6,Income,"<$25,000",174,YES,28.9,18.5,42.1
+6,Income,"$25,000 to <$50,000",294,YES,27.9,19.7,37.8
+6,Income,"$50,000+",768,YES,41.9,35.1,49.0
+6,Marital Status,Married,708,YES,39.8,32.8,47.2
+6,Marital Status,Not married,760,YES,32.5,26.8,38.9
+6,Employment Status,Employed,812,YES,32.3,26.5,38.8
+6,Employment Status,Not employed,659,YES,42.4,35.3,49.8
+6,Health Insurance,Health insurance,"1,230",YES,40.9,35.6,46.4
+6,Health Insurance,No health insurance,178,YES,16.2,9.9,25.5
+6,Disability Status,Has disability,439,YES,33.1,25.4,41.8
+6,Disability Status,No disability,"1,037",YES,37.5,32.0,43.3
+6,Sexual Orientation,"Gay, Lesbian, or Bisexual",79,YES,,,
+6,Sexual Orientation,Straight,"1,112",YES,38.3,32.5,44.4
+6,Total,Total,"1,482",NO,63.8,59.0,68.4
+6,Sex,Male,792,NO,70.7,64.8,75.9
+6,Sex,Female,690,NO,56.7,49.3,63.9
+6,Race/Ethnicity,"White, Non-Hispanic",817,NO,57.0,50.0,63.8
+6,Race/Ethnicity,"Black, Non-Hispanic",169,NO,65.2,51.7,76.6
+6,Race/Ethnicity,Hispanic,340,NO,70.4,62.5,77.3
+6,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",129,NO,58.4,41.2,73.8
+6,Age,18 to 29,279,NO,72.5,62.3,80.8
+6,Age,30 to 44,348,NO,69.8,60.4,77.7
+6,Age,45 to 64,438,NO,62.0,52.7,70.4
+6,Age,65+,402,NO,47.6,36.8,58.6
+6,Education,Less than high school,104,NO,75.4,58.8,86.8
+6,Education,High school graduate,327,NO,73.3,64.0,80.9
+6,Education,Some college,358,NO,63.2,53.1,72.2
+6,Education,College graduate,683,NO,52.2,45.2,59.1
+6,Income,"<$25,000",174,NO,71.1,57.9,81.5
+6,Income,"$25,000 to <$50,000",294,NO,72.1,62.2,80.3
+6,Income,"$50,000+",768,NO,58.1,51.0,64.9
+6,Marital Status,Married,708,NO,60.2,52.8,67.2
+6,Marital Status,Not married,760,NO,67.5,61.1,73.2
+6,Employment Status,Employed,812,NO,67.7,61.2,73.5
+6,Employment Status,Not employed,659,NO,57.6,50.2,64.7
+6,Health Insurance,Health insurance,"1,230",NO,59.1,53.6,64.4
+6,Health Insurance,No health insurance,178,NO,83.8,74.5,90.1
+6,Disability Status,Has disability,439,NO,66.9,58.2,74.6
+6,Disability Status,No disability,"1,037",NO,62.5,56.7,68.0
+6,Sexual Orientation,"Gay, Lesbian, or Bisexual",79,NO,74.7,54.2,88.0
+6,Sexual Orientation,Straight,"1,112",NO,61.7,55.6,67.5
+7,Total,Total,"1,194",YES,41.3,37.6,45.2
+7,Sex,Male,599,YES,40.1,34.9,45.5
+7,Sex,Female,595,YES,42.4,37.1,47.9
+7,Race/Ethnicity,"White, Non-Hispanic",771,YES,45.7,41.2,50.2
+7,Race/Ethnicity,"Black, Non-Hispanic",69,YES,45.4,30.7,60.9
+7,Race/Ethnicity,Hispanic,240,YES,35.3,27.9,43.5
+7,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",95,YES,30.9,20.0,44.5
+7,Age,18 to 29,244,YES,30.5,23.2,38.9
+7,Age,30 to 44,311,YES,37.7,30.6,45.4
+7,Age,45 to 64,319,YES,38.2,31.8,45.1
+7,Age,65+,303,YES,65.0,56.1,73.0
+7,Education,Less than high school,62,YES,31.9,19.5,47.5
+7,Education,High school graduate,233,YES,35.7,27.8,44.5
+7,Education,Some college,285,YES,37.7,30.9,45.0
+7,Education,College graduate,610,YES,51.7,46.9,56.4
+7,Income,"<$25,000",110,YES,36.5,24.7,50.2
+7,Income,"$25,000 to <$50,000",202,YES,31.1,23.6,39.7
+7,Income,"$50,000+",706,YES,43.9,39.1,48.8
+7,Marital Status,Married,584,YES,45.2,40.0,50.5
+7,Marital Status,Not married,602,YES,36.9,31.5,42.7
+7,Employment Status,Employed,736,YES,37.8,33.3,42.5
+7,Employment Status,Not employed,450,YES,47.9,41.1,54.8
+7,Health Insurance,Health insurance,"1,059",YES,44.5,40.5,48.7
+7,Health Insurance,No health insurance,90,YES,17.5,9.8,29.3
+7,Disability Status,Has disability,317,YES,42.9,35.2,51.0
+7,Disability Status,No disability,866,YES,40.5,36.3,44.9
+7,Sexual Orientation,"Gay, Lesbian, or Bisexual",92,YES,54.6,40.9,67.6
+7,Sexual Orientation,Straight,862,YES,41.0,36.6,45.6
+7,Total,Total,"1,194",NO,58.7,54.8,62.4
+7,Sex,Male,599,NO,59.9,54.5,65.1
+7,Sex,Female,595,NO,57.6,52.1,62.9
+7,Race/Ethnicity,"White, Non-Hispanic",771,NO,54.3,49.8,58.8
+7,Race/Ethnicity,"Black, Non-Hispanic",69,NO,54.6,39.1,69.3
+7,Race/Ethnicity,Hispanic,240,NO,64.7,56.5,72.1
+7,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",95,NO,69.1,55.5,80.0
+7,Age,18 to 29,244,NO,69.5,61.1,76.8
+7,Age,30 to 44,311,NO,62.3,54.6,69.4
+7,Age,45 to 64,319,NO,61.8,54.9,68.2
+7,Age,65+,303,NO,35.0,27.0,43.9
+7,Education,Less than high school,62,NO,68.1,52.5,80.5
+7,Education,High school graduate,233,NO,64.3,55.5,72.2
+7,Education,Some college,285,NO,62.3,55.0,69.1
+7,Education,College graduate,610,NO,48.3,43.6,53.1
+7,Income,"<$25,000",110,NO,63.5,49.8,75.3
+7,Income,"$25,000 to <$50,000",202,NO,68.9,60.3,76.4
+7,Income,"$50,000+",706,NO,56.1,51.2,60.9
+7,Marital Status,Married,584,NO,54.8,49.5,60.0
+7,Marital Status,Not married,602,NO,63.1,57.3,68.5
+7,Employment Status,Employed,736,NO,62.2,57.5,66.7
+7,Employment Status,Not employed,450,NO,52.1,45.2,58.9
+7,Health Insurance,Health insurance,"1,059",NO,55.5,51.3,59.5
+7,Health Insurance,No health insurance,90,NO,82.5,70.7,90.2
+7,Disability Status,Has disability,317,NO,57.1,49.0,64.8
+7,Disability Status,No disability,866,NO,59.5,55.1,63.7
+7,Sexual Orientation,"Gay, Lesbian, or Bisexual",92,NO,45.4,32.4,59.1
+7,Sexual Orientation,Straight,862,NO,59.0,54.4,63.4
+8,Total,Total,"1,296",YES,38.0,34.1,42.0
+8,Sex,Male,640,YES,37.4,31.5,43.7
+8,Sex,Female,656,YES,38.6,33.6,43.7
+8,Race/Ethnicity,"White, Non-Hispanic",703,YES,40.3,35.7,45.0
+8,Race/Ethnicity,"Black, Non-Hispanic",80,YES,47.4,34.1,61.1
+8,Race/Ethnicity,Hispanic,409,YES,35.6,29.5,42.2
+8,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",78,YES,35.4,23.3,49.8
+8,Age,18 to 29,166,YES,29.0,21.5,37.9
+8,Age,30 to 44,311,YES,29.9,23.5,37.2
+8,Age,45 to 64,408,YES,38.9,31.4,46.9
+8,Age,65+,395,YES,58.7,49.8,67.1
+8,Education,Less than high school,72,YES,36.4,22.2,53.5
+8,Education,High school graduate,261,YES,24.5,18.9,31.3
+8,Education,Some college,346,YES,38.2,31.9,44.9
+8,Education,College graduate,615,YES,49.3,44.2,54.4
+8,Income,"<$25,000",122,YES,36.5,24.2,51.0
+8,Income,"$25,000 to <$50,000",248,YES,33.7,25.4,43.2
+8,Income,"$50,000+",739,YES,39.7,34.9,44.7
+8,Marital Status,Married,700,YES,43.4,37.8,49.1
+8,Marital Status,Not married,585,YES,31.6,26.3,37.5
+8,Employment Status,Employed,664,YES,32.1,27.3,37.2
+8,Employment Status,Not employed,612,YES,44.1,37.7,50.7
+8,Health Insurance,Health insurance,"1,144",YES,40.3,36.1,44.6
+8,Health Insurance,No health insurance,112,YES,19.4,11.6,30.7
+8,Disability Status,Has disability,405,YES,40.4,32.7,48.7
+8,Disability Status,No disability,883,YES,36.6,32.2,41.2
+8,Sexual Orientation,"Gay, Lesbian, or Bisexual",80,YES,32.3,21.0,46.1
+8,Sexual Orientation,Straight,"1,027",YES,37.2,33.0,41.6
+8,Total,Total,"1,296",NO,62.0,58.0,65.9
+8,Sex,Male,640,NO,62.6,56.3,68.5
+8,Sex,Female,656,NO,61.4,56.3,66.4
+8,Race/Ethnicity,"White, Non-Hispanic",703,NO,59.7,55.0,64.3
+8,Race/Ethnicity,"Black, Non-Hispanic",80,NO,52.6,38.9,65.9
+8,Race/Ethnicity,Hispanic,409,NO,64.4,57.8,70.5
+8,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",78,NO,64.6,50.2,76.7
+8,Age,18 to 29,166,NO,71.0,62.1,78.5
+8,Age,30 to 44,311,NO,70.1,62.8,76.5
+8,Age,45 to 64,408,NO,61.1,53.1,68.6
+8,Age,65+,395,NO,41.3,32.9,50.2
+8,Education,Less than high school,72,NO,63.6,46.5,77.8
+8,Education,High school graduate,261,NO,75.5,68.7,81.1
+8,Education,Some college,346,NO,61.8,55.1,68.1
+8,Education,College graduate,615,NO,50.7,45.6,55.8
+8,Income,"<$25,000",122,NO,63.5,49.0,75.8
+8,Income,"$25,000 to <$50,000",248,NO,66.3,56.8,74.6
+8,Income,"$50,000+",739,NO,60.3,55.3,65.1
+8,Marital Status,Married,700,NO,56.6,50.9,62.2
+8,Marital Status,Not married,585,NO,68.4,62.5,73.7
+8,Employment Status,Employed,664,NO,67.9,62.8,72.7
+8,Employment Status,Not employed,612,NO,55.9,49.3,62.3
+8,Health Insurance,Health insurance,"1,144",NO,59.7,55.4,63.9
+8,Health Insurance,No health insurance,112,NO,80.6,69.3,88.4
+8,Disability Status,Has disability,405,NO,59.6,51.3,67.3
+8,Disability Status,No disability,883,NO,63.4,58.8,67.8
+8,Sexual Orientation,"Gay, Lesbian, or Bisexual",80,NO,67.7,53.9,79.0
+8,Sexual Orientation,Straight,"1,027",NO,62.8,58.4,67.0
+9,Total,Total,436,YES,24.5,17.7,32.9
+9,Sex,Male,247,YES,26.1,16.7,38.2
+9,Sex,Female,189,YES,22.5,13.9,34.3
+9,Race/Ethnicity,"White, Non-Hispanic",235,YES,22.1,13.8,33.4
+9,Race/Ethnicity,"Black, Non-Hispanic",N,YES,,,
+9,Race/Ethnicity,Hispanic,149,YES,26.9,16.0,41.5
+9,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,YES,,,
+9,Age,18 to 29,69,YES,,,
+9,Age,30 to 44,130,YES,21.5,11.8,35.8
+9,Age,45 to 64,136,YES,,,
+9,Age,65+,99,YES,45.6,25.2,67.5
+9,Education,Less than high school,N,YES,,,
+9,Education,High school graduate,131,YES,,,
+9,Education,Some college,127,YES,18.2,9.9,31.3
+9,Education,College graduate,134,YES,34.8,21.3,51.3
+9,Income,"<$25,000",50,YES,,,
+9,Income,"$25,000 to <$50,000",74,YES,,,
+9,Income,"$50,000+",235,YES,20.0,12.8,29.8
+9,Marital Status,Married,224,YES,22.6,15.2,32.1
+9,Marital Status,Not married,211,YES,26.8,15.9,41.4
+9,Employment Status,Employed,266,YES,22.6,14.7,33.2
+9,Employment Status,Not employed,161,YES,28.0,16.5,43.3
+9,Health Insurance,Health insurance,353,YES,28.9,20.8,38.7
+9,Health Insurance,No health insurance,65,YES,,,
+9,Disability Status,Has disability,140,YES,,,
+9,Disability Status,No disability,291,YES,22.2,15.4,30.8
+9,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,YES,,,
+9,Sexual Orientation,Straight,367,YES,23.4,16.4,32.4
+9,Total,Total,436,NO,75.5,67.1,82.3
+9,Sex,Male,247,NO,73.9,61.8,83.3
+9,Sex,Female,189,NO,77.5,65.7,86.1
+9,Race/Ethnicity,"White, Non-Hispanic",235,NO,77.9,66.6,86.2
+9,Race/Ethnicity,"Black, Non-Hispanic",N,NO,,,
+9,Race/Ethnicity,Hispanic,149,NO,73.1,58.5,84.0
+9,Race/Ethnicity,"Other/Multiracial, Non-Hispanic",N,NO,,,
+9,Age,18 to 29,69,NO,75.8,50.4,90.6
+9,Age,30 to 44,130,NO,78.5,64.2,88.2
+9,Age,45 to 64,136,NO,81.5,67.6,90.2
+9,Age,65+,99,NO,54.4,32.5,74.8
+9,Education,Less than high school,N,NO,,,
+9,Education,High school graduate,131,NO,79.9,65.5,89.3
+9,Education,Some college,127,NO,81.8,68.7,90.1
+9,Education,College graduate,134,NO,65.2,48.7,78.7
+9,Income,"<$25,000",50,NO,70.3,49.0,85.3
+9,Income,"$25,000 to <$50,000",74,NO,75.3,51.8,89.6
+9,Income,"$50,000+",235,NO,80.0,70.2,87.2
+9,Marital Status,Married,224,NO,77.4,67.9,84.8
+9,Marital Status,Not married,211,NO,73.2,58.6,84.1
+9,Employment Status,Employed,266,NO,77.4,66.8,85.3
+9,Employment Status,Not employed,161,NO,72.0,56.7,83.5
+9,Health Insurance,Health insurance,353,NO,71.1,61.3,79.2
+9,Health Insurance,No health insurance,65,NO,99.7,98.8,99.9
+9,Disability Status,Has disability,140,NO,75.3,57.4,87.3
+9,Disability Status,No disability,291,NO,77.8,69.2,84.6
+9,Sexual Orientation,"Gay, Lesbian, or Bisexual",N,NO,,,
+9,Sexual Orientation,Straight,367,NO,76.6,67.6,83.6
