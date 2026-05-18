@@ -106,8 +106,8 @@ Diabetes Eye Exam - Within the past month,22.4,R,16.4,N,R,R,24.2,19.3,R,18.2,15.
 Diabetes Eye Exam - Within the past year,43.6,33.8,45.5,N,58.3,52.6,48.1,42.9,R,42.2,41.9
 Diabetes Status - No,84.0,84.5,87.7,80.1,82.6,88.2,88.4,85.1,88.7,82.0,82.0
 Diabetes Status - Yes,16.0,15.5,12.3,19.9,17.4,11.8,11.6,14.9,11.3,18.0,18.0
-Diabetes Test - No,N,N,N,N,N,N,N,N,N,N,N
-Diabetes Test - Yes,N,N,N,N,N,N,N,N,N,N,N
+Diabetes Test - No,N,,N,N,N,N,N,N,N,N,N
+Diabetes Test - Yes,N,,N,N,N,N,N,N,N,N,N
 Diabetes Type - Type 1,R,R,10.9,N,R,R,R,9.0,R,R,R
 Diabetes Type - Type 2,93.8,96.6,89.1,N,84.5,95.2,88.6,91.0,91.7,89.7,82.6
 Difficulty Concentrating - No,83.2,83.0,85.8,87.4,84.8,85.2,86.7,84.0,86.0,81.0,82.7
@@ -122,11 +122,11 @@ Disability Status - No,64.6,59.2,70.4,71.0,65.3,72.1,72.7,66.8,67.1,59.5,66.4
 Disability Status - Yes,35.4,40.8,29.6,29.0,34.7,27.9,27.3,33.2,32.9,40.5,33.6
 Dr Rx Pain Talk - No,33.8,41.8,38.8,35.8,36.1,51.2,37.9,40.9,R,52.7,50.7
 Dr Rx Pain Talk - Yes,66.2,58.2,61.2,64.2,63.9,48.8,62.1,59.1,70.4,47.3,49.3
-DurationClnscpySgmy - 5 or more years ago,N,N,N,N,N,N,N,N,N,N,N
-DurationClnscpySgmy - Within the past 2 years,N,N,N,N,N,N,N,N,N,N,N
-DurationClnscpySgmy - Within the past 3 years,N,N,N,N,N,N,N,N,N,N,N
-DurationClnscpySgmy - Within the past 5 years,N,N,N,N,N,N,N,N,N,N,N
-DurationClnscpySgmy - Within the past year,N,N,N,N,N,N,N,N,N,N,N
+DurationClnscpySgmy - 5 or more years ago,N,N,N,,N,N,N,N,N,N,N
+DurationClnscpySgmy - Within the past 2 years,N,N,N,,N,N,N,N,N,N,N
+DurationClnscpySgmy - Within the past 3 years,N,N,N,,N,N,N,N,N,N,N
+DurationClnscpySgmy - Within the past 5 years,N,N,N,,N,N,N,N,N,N,N
+DurationClnscpySgmy - Within the past year,N,N,N,,N,N,N,N,N,N,N
 DurationHomeBloodStoolTest - 5 or more years ago,R,20.9,13.8,N,R,R,21.6,15.5,N,R,R
 DurationHomeBloodStoolTest - Within the past 2 years,R,14.5,25.6,N,42.3,R,13.7,20.4,N,19.8,R
 DurationHomeBloodStoolTest - Within the past 3 years,R,R,10.4,N,R,R,R,R,N,R,R
@@ -329,7 +329,6 @@ Reg BP Check - Yes,68.1,74.5,72.4,64.3,73.8,64.9,67.5,67.0,74.5,72.9,78.5
 RemoveTeeth - 1 to 5,28.0,27.6,27.7,23.9,30.5,29.6,24.7,31.1,28.7,30.7,27.5
 "RemoveTeeth - 6 or More, but not all",12.2,11.9,6.3,14.2,11.4,5.6,8.1,4.8,4.3,7.4,7.2
 RemoveTeeth - All,4.1,10.8,3.3,9.7,R,2.8,3.2,R,R,3.3,R
-RemoveTeeth - None,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Routine Checkup - 5 or more years,4.3,3.7,4.9,9.4,R,6.6,5.5,6.6,12.3,5.1,3.5
 Routine Checkup - Never,R,R,0.8,R,R,R,R,R,R,R,R
 Routine Checkup - Within the past 2 years,14.3,9.8,10.3,10.9,8.7,13.0,10.5,9.4,7.0,10.5,12.1
